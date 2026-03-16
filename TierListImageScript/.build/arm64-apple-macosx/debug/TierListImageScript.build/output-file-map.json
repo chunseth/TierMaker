@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/.build/arm64-apple-macosx/debug/TierListImageScript.build/master.swiftdeps"
+  },
+  "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/Sources/TierListImageScript/Render.swift": {
+    "dependencies": "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/.build/arm64-apple-macosx/debug/TierListImageScript.build/Render.d",
+    "object": "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/.build/arm64-apple-macosx/debug/TierListImageScript.build/Render.swift.o",
+    "swiftmodule": "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/.build/arm64-apple-macosx/debug/TierListImageScript.build/Render~partial.swiftmodule",
+    "swift-dependencies": "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/.build/arm64-apple-macosx/debug/TierListImageScript.build/Render.swiftdeps"
+  },
+  "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/Sources/TierListImageScript/Templates.swift": {
+    "dependencies": "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/.build/arm64-apple-macosx/debug/TierListImageScript.build/Templates.d",
+    "object": "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/.build/arm64-apple-macosx/debug/TierListImageScript.build/Templates.swift.o",
+    "swiftmodule": "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/.build/arm64-apple-macosx/debug/TierListImageScript.build/Templates~partial.swiftmodule",
+    "swift-dependencies": "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/.build/arm64-apple-macosx/debug/TierListImageScript.build/Templates.swiftdeps"
+  },
+  "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/Sources/TierListImageScript/URLDecode.swift": {
+    "dependencies": "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/.build/arm64-apple-macosx/debug/TierListImageScript.build/URLDecode.d",
+    "object": "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/.build/arm64-apple-macosx/debug/TierListImageScript.build/URLDecode.swift.o",
+    "swiftmodule": "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/.build/arm64-apple-macosx/debug/TierListImageScript.build/URLDecode~partial.swiftmodule",
+    "swift-dependencies": "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/.build/arm64-apple-macosx/debug/TierListImageScript.build/URLDecode.swiftdeps"
+  },
+  "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/Sources/TierListImageScript/main.swift": {
+    "dependencies": "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/.build/arm64-apple-macosx/debug/TierListImageScript.build/main.d",
+    "object": "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/.build/arm64-apple-macosx/debug/TierListImageScript.build/main.swift.o",
+    "swiftmodule": "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/.build/arm64-apple-macosx/debug/TierListImageScript.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/sethchun/openclaw/imessage-tier-list/TierMaker/TierListImageScript/.build/arm64-apple-macosx/debug/TierListImageScript.build/main.swiftdeps"
+  }
+}
